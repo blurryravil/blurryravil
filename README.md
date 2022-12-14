@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @blurryravil
+- 👋 Hi, I’m Ravil Patel, B.TECH - DATA SCIENCE and AI, IIIT - Naya Raipur
 - 👀 I’m interested in field of machine learning and love to create projects that help in solving the real world problems.
 - 🌱 I’m currently learning data analytics, MySQL and machine learning(Computer Vision) through projects and real life implementation.
 - 💞️ I’m looking to collaborate on machine learning projects using Computer Vision as it is the field i am currently into.
